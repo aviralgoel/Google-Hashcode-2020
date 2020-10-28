@@ -202,6 +202,7 @@ int main()
         memset(b_bool, false, sizeof b_bool);
 
         // Read, Solve and Diplay
+        //files are in different folder, please make sure files are in source folder!!!!
         read(INPUTS[x]);
         cout<<"read done"<<endl;
         //cout<<B<<" "<<L<<" "<<D<<" "<<lib.size();
