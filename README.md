@@ -19,6 +19,9 @@ The maximum number of libraries is 100’000, i.e., the index k belongs to the r
 The maximum time of the simulation is D – 1. All books scanned after this time do not provide any score. All libraries signed up after this time are ignored. The value of the parameter D belongs to the range [1; 100’000].
 
 Implicitly, both books and libraries are identified by a numerical index.
+
+
+# Solution Approach
  
  From what we can understand within the given 5 hours time frame of the competition, we had set the following aims.
  Objective:
